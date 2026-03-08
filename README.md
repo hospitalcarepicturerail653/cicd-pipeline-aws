@@ -43,16 +43,15 @@ terraform output next_steps
 
 git push origin main
 
-GitHub Secrets Required
 
-| Secret | Description |
-|---|---|
-| `AWS_ROLE_ARN` | IAM role ARN for GitHub OIDC auth |
-| `AWS_REGION` | AWS region |
-| `ECR_REPOSITORY` | ECR repository name |
-| `ECS_CLUSTER` | ECS cluster name |
-| `ECS_SERVICE` | ECS service name |
-| `ECS_TASK_DEFINITION` | ECS task definition family |
-| `ECS_CONTAINER_NAME` | Container name (flask-api) |
-| `ALB_DNS_NAME` | Load balancer DNS name |
+GitHub Secrets 
+
+AWS_ROLE_ARN
+AWS_REGION
+ECR_REPOSITORY
+ECS_CLUSTER
+ECS_SERVICE
+ECS_TASK_DEFINITION
+ECS_CONTAINER_NAME
+ALB_DNS_NAME
 
