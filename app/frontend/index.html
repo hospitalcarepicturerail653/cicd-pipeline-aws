@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask API on ECS</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+        button { padding: 10px 20px; margin: 5px; cursor: pointer; background: #007bff; color: white; border: none; border-radius: 4px; }
+        pre { background: #f4f4f4; padding: 15px; border-radius: 4px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>Flask API on ECS Fargate</h1>
+    <button onclick="fetchData('/health')">Health Check</button>
+    <button onclick="fetchData('/api/items')">Get Items</button>
+    <button onclick="fetchData('/api/items/1')">Get Item 1</button>
+    <pre id="output">Click a button to test the API...</pre>
+    <script>
+        async function fetchData(path) {
+            const res = await fetch(path);
+            const data = await res.json();
+            document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+        }
+    </script>
+</body>
+</html>
